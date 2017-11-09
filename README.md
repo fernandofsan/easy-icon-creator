@@ -1,4 +1,5 @@
 # easy-icon-creator
+Easy Icon Creator is a small Windows Forms Project to create images for your application.
 Tool to create icons for your application, it becames easy to create tiles as Windows 8 and 10.
 
 Features
